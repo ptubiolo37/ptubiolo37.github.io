@@ -4,7 +4,7 @@ title: Coming Soon!
 img: assets/img/cnap_logo_initials.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 <!-- Every project has a beautiful feature showcase page.
@@ -77,4 +77,4 @@ Here's the code for the last row of images above:
 </div>
 ``` -->
 
-{% endraw %}
+<!-- {% endraw %} -->
