@@ -1,5 +1,5 @@
 {
-  "Basics": {
+  "basics": {
     "name": "Philip Tubiolo",
     "label": "PhD Student and Neuroimaging Researcher",
     "image": "",
@@ -59,7 +59,7 @@
       "endDate": "05-2021"
     }
   ],
-  
+
   "awards": [
     {
       "title": "Nobel Pize in Physics",
