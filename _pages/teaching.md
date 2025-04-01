@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-# Teaching Assistantships
+## Teaching Assistantships
 
 Spring 2024:	Graduate Teaching Assistant, BME 311: Fundamentals of Macro to Molecular Bioimaging, Department of Biomedical Engineering, Stony Brook University. Scope: Approx. 4 contact hours weekly. Learners: 13 undergraduate students.
 
