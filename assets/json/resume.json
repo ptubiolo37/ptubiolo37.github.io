@@ -1,60 +1,62 @@
 {
-  "basics": {
+  "Basics": {
     "name": "Philip Tubiolo",
     "label": "PhD Student and Neuroimaging Researcher",
     "image": "",
     "email": "philip.tubiolo@stonybrookmedicine.edu",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "url": "https://www.linkedin.com/in/philip-tubiolo/",
   },
-  "work": [
+  
+  "Academic Appointments": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Cognitive Neuroscience and Psychosis Lab (PI: Jared X. Van Snellenberg), Renaissance School of Medicine at Stony Brook University",
+      "position": "Graduate Research Assistant",
+      "url": "https://renaissance.stonybrookmedicine.edu/CNAP_Lab",
+      "startDate": "08-2021",
+      "endDate": "Present",
+     "highlights": ["fMRI Methods Development","Working Memory Impairment in Schizophrenia"]
     }
   ],
-  "volunteer": [
+
+  "Education": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Stony Brook University",
+      "location": "Stony Brook, NY",
+      "url": "https://www.stonybrook.edu/bme/",
+      "area": "Biomedical Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "08-2021",
+      "endDate": "Present"
+    },
+
+    {
+      "institution": "Stony Brook University",
+      "location": "Stony Brook, NY",
+      "url": "https://www.stonybrook.edu/commcms/bme/graduate/medicalphys.php",
+      "area": "Medical Physics",
+      "studyType": "CAMPEP Accredited Graduate Certificate",
+      "startDate": "08-2021",
+      "endDate": "05-2024"
+    },
+
+    {
+      "institution": "Stony Brook University",
+      "location": "Stony Brook, NY",
+      "url": "https://www.stonybrook.edu/bme/",
+      "area": "Biomedical Engineering",
+      "studyType": "MS",
+      "startDate": "08-2021",
+      "endDate": "05-2024"
+    },
+
+    {
+      "institution": "Stony Brook University",
+      "location": "Stony Brook, NY",
+      "url": "https://www.stonybrook.edu/bme/",
+      "area": "Biomedical Engineering",
+      "studyType": "BE",
+      "startDate": "08-2017",
+      "endDate": "05-2021"
     }
   ],
   "awards": [
