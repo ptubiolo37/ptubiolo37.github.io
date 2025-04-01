@@ -191,6 +191,31 @@
         </a>
       {% endif %}
       {% if entry.abstract %}
+        <style>
+          .abstract-container {
+            position: relative;
+            display: inline-block;
+          }
+    
+    .abstract-text {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 250px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            padding: 12px;
+            z-index: 1;
+            left: 0;
+            text-align: left;
+            border-radius: 4px;
+            font-size: 0.9em;
+            max-width: 400px;
+          }
+    
+          .abstract-container:hover .abstract-text {
+            display: block;
+          }
+        </style>
         <div class="abstract-container">
           <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
           <span class="abstract-text">{{ entry.abstract }}</span>
