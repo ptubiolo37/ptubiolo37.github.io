@@ -6,7 +6,6 @@
     "email": "philip.tubiolo@stonybrookmedicine.edu",
     "url": "https://www.linkedin.com/in/philip-tubiolo/"
   },
-  
   "work": [
     {
       "name": "Cognitive Neuroscience and Psychosis Lab (PI: Jared X. Van Snellenberg), Renaissance School of Medicine at Stony Brook University",
@@ -14,7 +13,7 @@
       "url": "https://renaissance.stonybrookmedicine.edu/CNAP_Lab",
       "startDate": "08-2021",
       "endDate": "Present",
-     "highlights": ["fMRI Methods Development","Working Memory Impairment in Schizophrenia"]
+      "highlights": ["fMRI Methods Development","Working Memory Impairment in Schizophrenia"]
     }
   ],
 
@@ -65,27 +64,13 @@
       "name": "Programming and Software",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "MATLAB",
-        "Python",
-        "High Performance Computing",
-        "Linux (RHEL)",
-        "Microsoft Excel",
-        "Adobe Illustrator",
-        "Adobe Photoshop"
-      ]
+      "keywords": ["MATLAB", "Python", "High Performance Computing", "Linux (RHEL)", "Microsoft Excel", "Adobe Illustrator", "Adobe Photoshop"]
     },
     {
       "name": "Neuroscience and Neuroimaging",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "task-based fMRI",
-        "MR Physics",
-        "PET",
-        "Neuromelanin-Sensitive MRI",
-        "Cognitive Psychology"
-      ]
+      "keywords": ["Task-based fMRI", "MR Physics", "PET", "Neuromelanin-Sensitive MRI", "Cognitive Psychology"]
     }
   ]
 }
