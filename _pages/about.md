@@ -7,7 +7,7 @@ subtitle: Neuroimaging Reseacher
 profile:
   align: right
   image: ProfessionalSmile.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>pntubiolo10@gmail.com</p>
     <p>philip.tubiolo@stonybrookmedicine.edu</p>
@@ -27,4 +27,4 @@ Hello! My name is Phil, and I am a PhD student in Biomedical Engineering and Med
 
 Upon graduation, I plan to attend a CAMPEP Accredited Medical Physics residency program. I aspire to become a physicist and researcher that focuses on the translation of novel biomedical imaging methods into the clinical setting.
 
-In my free time, I am an avid saltwater fisherman, hiker, photographer, and musician.
+In my free time, I am an avid saltwater fisherman, hiker, photographer, and musician. I also find joy in mentorship and currently run a high school STEM tutoring and pre-college advising program.
