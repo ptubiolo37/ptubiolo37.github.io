@@ -5,3 +5,6 @@ repo_description_lines_max: 2
 
 github_repos:
   - CNaP-Lab/MARSS
+  - CNaP-Lab/MCOT
+  - CNaP-Lab/Toolkit_for_MIRA_LAB_Striatal_Segmentation
+  - CNaP-Lab/Sensory-Thalamic-Localizer
