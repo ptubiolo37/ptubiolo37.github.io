@@ -23,8 +23,8 @@ announcements:
 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! My name is Phil, and I am a PhD student in Biomedical Engineering and Medical Physics at Stony Brook University. My research is currently focused on the use of multimodal neuroimaging to investigate functional and behavioral abnormalities in people with schizophrenia. Particularly, I have primarily focused on the implementation of high-resolution functional magnetic resonance imaging (fMRI) techniques to the investigation of neural correlates of working memory impairment. As fMRI is an inherently noisy imaging technique, I am also interested in the developing of denoising techniques to improve the reproducibility of findings across the neuroimaging field.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Upon graduation, I plan to attend a CAMPEP Accredited Medical Physics residency program. I aspire to become a physicist and researcher that focuses on the translation of novel biomedical imaging methods into the clinical setting.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time, I am an avid saltwater fisherman, hiker, photographer, and musician.
