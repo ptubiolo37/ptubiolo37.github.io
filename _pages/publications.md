@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: A list of all publications I have been involved in, including pre-prints!
+description: A list of all publications I have been involved in, including preprints!
 nav: true
 nav_order: 2
 ---
