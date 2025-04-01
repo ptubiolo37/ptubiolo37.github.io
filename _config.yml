@@ -600,7 +600,7 @@ jekyll_get_json:
 
 jsonresume:
   - basics
-  - work
+  - academic appointments
   - education
   - publications
   - projects
